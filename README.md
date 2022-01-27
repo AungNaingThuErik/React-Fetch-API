@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+# Created with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Carousel component
+
+[React Slick](https://www.npmjs.com/package/react-slick).
+
+## Setting up Tailwind CSS in a Create React App project
+ 
+Installation [Link](https://tailwindcss.com/docs/guides/create-react-app).
+
+## Fetch and display data from API 
+
+CodingDeft [Link](https://www.codingdeft.com/posts/react-fetch-data-api/).
 
 ## Available Scripts
 
